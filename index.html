@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>رادار بلاگرهای تکنولوژی ایران | TechBlogger IR</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <!-- Vazirmatn Font -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css">
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Vazirmatn', 'sans-serif'],
+          },
+          colors: {
+            brand: {
+              50: '#f0fdf4',
+              100: '#dcfce7',
+              500: '#22c55e',
+              600: '#16a34a',
+              700: '#15803d',
+              dark: '#0f172a',
+              card: '#1e293b',
+              accent: '#38bdf8'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body {
+      font-family: 'Vazirmatn', sans-serif;
+      background-color: #0b0f19;
+      color: #f1f5f9;
+    }
+    .glassmorphism {
+      background: rgba(30, 41, 59, 0.7);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .badge-rank {
+      box-shadow: 0 0 15px rgba(56, 189, 248, 0.3);
+    }
+    .custom-scrollbar::-webkit-scrollbar {
+      width: 6px;
+    }
+    .custom-scrollbar::-webkit-scrollbar-track {
+      background: #0f172a;
+    }
+    .custom-scrollbar::-webkit-scrollbar-thumb {
+      background: #334155;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col custom-scrollbar">
+
+  <!-- Header & Navbar -->
+  <header class="sticky top-0 z-50 glassmorphism border-b border-slate-800">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+      <div class="flex items-center space-x-3 space-x-reverse">
+        <div class="w-11 h-11 rounded-xl bg-gradient-to-tr from-cyan-500 to-emerald-500 flex items-center justify-center text-slate-950 font-black text-xl shadow-lg shadow-cyan-500/20">
+          <i class="fa-solid fa-microchip"></i>
+        </div>
+        <div>
+          <h1 class="text-xl font-extrabold bg-gradient-to-r from-cyan-400 via-emerald-400 to-teal-200 bg-clip-text text-transparent">
+            TechBlogger IR
+          </h1>
+          <p class="text-xs text-slate-400">دایرکتوری و رتبه‌بندی بلاگرهای تکنولوژی و اکوسیستم ایران</p>
+        </div>
+      </div>
+      
+      <div class="flex items-center gap-3">
+        <a href="https://github.com/techblogger-ir/techblogger-ir.github.io" target="_blank" class="px-4 py-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-sm font-medium border border-slate-700 transition flex items-center gap-2">
+          <i class="fa-brands fa-github text-base"></i>
+          <span>گیت‌هاب</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="relative py-12 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full">
+    <div class="absolute inset-0 -z-10 flex items-center justify-center opacity-25 filter blur-3xl">
+      <div class="w-96 h-96 bg-cyan-600 rounded-full"></div>
+      <div class="w-96 h-96 bg-emerald-600 rounded-full -ml-32"></div>
+    </div>
+
+    <div class="text-center max-w-3xl mx-auto mb-10">
+      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-cyan-950/60 border border-cyan-800/60 text-cyan-400 text-xs font-semibold mb-4">
+        <span class="relative flex h-2 w-2">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-cyan-400 opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-2 w-2 bg-cyan-500"></span>
+        </span>
+        کامیونیتی گروه تلگرام تکنولوژی
+      </div>
+      <h2 class="text-3xl sm:text-5xl font-black tracking-tight text-white mb-4 leading-tight">
+        رتبه‌بندی و آنالیز جامع <span class="bg-gradient-to-r from-cyan-400 to-emerald-400 bg-clip-text text-transparent">تک‌بلاگرهای ایران</span>
+      </h2>
+      <p class="text-slate-300 text-base sm:text-lg">
+        مرجع پایش فالوور، نرخ تعامل، تخصص و نقاط قوت فعالان حوزه فناوری، هوش مصنوعی، موبایل و گجت.
+      </p>
+    </div>
+
+    <!-- Quick Stats Grid -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+      <div class="glassmorphism p-5 rounded-2xl border border-slate-800 text-center">
+        <div class="text-slate-400 text-xs font-medium mb-1">مجموع دنبال‌کنندگان</div>
+        <div id="statTotalFollowers" class="text-2xl font-black text-cyan-400">۲.۱M+</div>
+      </div>
+      <div class="glassmorphism p-5 rounded-2xl border border-slate-800 text-center">
+        <div class="text-slate-400 text-xs font-medium mb-1">تعداد بلاگرهای بررسی شده</div>
+        <div id="statTotalCount" class="text-2xl font-black text-emerald-400">۱۲</div>
+      </div>
+      <div class="glassmorphism p-5 rounded-2xl border border-slate-800 text-center">
+        <div class="text-slate-400 text-xs font-medium mb-1">میانگین انگیجمنت ریت</div>
+        <div id="statAvgEngagement" class="text-2xl font-black text-teal-400">۵.۸٪</div>
+      </div>
+      <div class="glassmorphism p-5 rounded-2xl border border-slate-800 text-center">
+        <div class="text-slate-400 text-xs font-medium mb-1">پوشش تخصص‌ها</div>
+        <div class="text-2xl font-black text-indigo-400">AI، گجت، وب، دیتا</div>
+      </div>
+    </div>
+
+    <!-- Filters & Search Bar -->
+    <div class="glassmorphism p-4 sm:p-6 rounded-2xl border border-slate-800 flex flex-col md:flex-row gap-4 items-center justify-between">
+      <div class="relative w-full md:w-80">
+        <i class="fa-solid fa-magnifying-glass absolute right-4 top-3.5 text-slate-400"></i>
+        <input id="searchInput" type="text" placeholder="جستجوی نام، آیدی، تخصص یا تگ..." 
+          class="w-full pr-11 pl-4 py-2.5 rounded-xl bg-slate-900 border border-slate-700 text-white placeholder-slate-500 focus:outline-none focus:border-cyan-500 focus:ring-1 focus:ring-cyan-500 transition text-sm">
+      </div>
+
+      <div class="flex flex-wrap gap-2 w-full md:w-auto items-center justify-start md:justify-end">
+        <span class="text-xs text-slate-400 ml-1">دسته‌بندی:</span>
+        <button class="filter-btn active px-3 py-1.5 rounded-lg bg-cyan-600 text-white text-xs font-medium transition" data-cat="all">همه</button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-medium transition" data-cat="بررسی گجت">گجت و موبایل</button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-medium transition" data-cat="هوش مصنوعی">هوش مصنوعی و کد</button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-medium transition" data-cat="آموزش و ترفند">آموزش و ترفند</button>
+      </div>
+
+      <div class="flex items-center gap-2 w-full md:w-auto justify-end">
+        <label for="sortSelect" class="text-xs text-slate-400 whitespace-nowrap">مرتب‌سازی:</label>
+        <select id="sortSelect" class="px-3 py-2 rounded-xl bg-slate-900 border border-slate-700 text-white text-xs focus:outline-none focus:border-cyan-500">
+          <option value="followers_desc">بیشترین فالوور (نزولی)</option>
+          <option value="followers_asc">کمترین فالوور (صعودی)</option>
+          <option value="score_desc">بالاترین امتیاز کیفیت</option>
+          <option value="engagement_desc">بیشترین تعامل (Engagement)</option>
+        </select>
+      </div>
+    </div>
+  </section>
+
+  <!-- Bloggers Grid -->
+  <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16 w-full">
+    <div id="bloggersContainer" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Cards rendered via JS -->
+    </div>
+
+    <!-- Empty State -->
+    <div id="emptyState" class="hidden text-center py-16">
+      <div class="w-16 h-16 mx-auto mb-4 rounded-full bg-slate-800 flex items-center justify-center text-slate-500 text-2xl">
+        <i class="fa-solid fa-user-slash"></i>
+      </div>
+      <h3 class="text-lg font-bold text-slate-300">موردی یافت نشد!</h3>
+      <p class="text-xs text-slate-500 mt-1">با کلمات کلیدی دیگری جستجو کنید.</p>
+    </div>
+  </main>
+
+  <!-- Detailed Analysis Modal -->
+  <div id="analysisModal" class="fixed inset-0 z-50 hidden flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-sm">
+    <div class="glassmorphism bg-slate-900 border border-slate-700 rounded-3xl max-w-2xl w-full p-6 sm:p-8 max-h-[90vh] overflow-y-auto custom-scrollbar relative animate-scale">
+      <button id="closeModalBtn" class="absolute top-5 left-5 w-8 h-8 rounded-full bg-slate-800 hover:bg-slate-700 text-slate-400 flex items-center justify-center transition">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+
+      <div id="modalContent">
+        <!-- Injected by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="glassmorphism border-t border-slate-800 py-8 mt-auto">
+    <div class="max-w-7xl mx-auto px-4 text-center">
+      <p class="text-sm text-slate-400 font-medium">
+        گردآوری شده بر اساس کامیونیتی فعال تکنولوژی ایران • طراحی و توسعه با Vibe Coding
+      </p>
+      <div class="flex items-center justify-center gap-4 mt-3 text-xs text-slate-500">
+        <span>سازمان TechBlogger-IR</span>
+        <span>•</span>
+        <a href="https://github.com/techblogger-ir" class="hover:text-cyan-400 transition">github.com/techblogger-ir</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Main JavaScript Logic -->
+  <script>
+    let bloggersData = [];
+    let currentCategory = 'all';
+
+    async function loadData() {
+      try {
+        const res = await fetch('bloggers.json');
+        bloggersData = await res.json();
+        updateStats();
+        renderBloggers();
+      } catch (err) {
+        console.error('Error loading bloggers:', err);
+      }
+    }
+
+    function updateStats() {
+      const totalFollowers = bloggersData.reduce((acc, b) => acc + (b.followers_count || 0), 0);
+      document.getElementById('statTotalFollowers').textContent = (totalFollowers / 1000000).toFixed(1) + 'M+';
+      document.getElementById('statTotalCount').textContent = bloggersData.length;
+    }
+
+    function getFilteredAndSortedData() {
+      const query = document.getElementById('searchInput').value.toLowerCase().trim();
+      const sortBy = document.getElementById('sortSelect').value;
+
+      let filtered = bloggersData.filter(b => {
+        const matchCat = (currentCategory === 'all') || (b.category && b.category.includes(currentCategory));
+        const matchSearch = !query || 
+          b.name.toLowerCase().includes(query) ||
+          b.real_name.toLowerCase().includes(query) ||
+          (b.telegram_user && b.telegram_user.toLowerCase().includes(query)) ||
+          (b.instagram && b.instagram.toLowerCase().includes(query)) ||
+          (b.bio && b.bio.toLowerCase().includes(query)) ||
+          (b.tags && b.tags.some(t => t.toLowerCase().includes(query)));
+        return matchCat && matchSearch;
+      });
+
+      filtered.sort((a, b) => {
+        if (sortBy === 'followers_desc') return b.followers_count - a.followers_count;
+        if (sortBy === 'followers_asc') return a.followers_count - b.followers_count;
+        if (sortBy === 'score_desc') return b.score - a.score;
+        if (sortBy === 'engagement_desc') return parseFloat(b.engagement_rate) - parseFloat(a.engagement_rate);
+        return 0;
+      });
+
+      return filtered;
+    }
+
+    function renderBloggers() {
+      const container = document.getElementById('bloggersContainer');
+      const emptyState = document.getElementById('emptyState');
+      const data = getFilteredAndSortedData();
+
+      if (data.length === 0) {
+        container.innerHTML = '';
+        emptyState.classList.remove('hidden');
+        return;
+      }
+
+      emptyState.classList.add('hidden');
+      container.innerHTML = data.map((b, index) => {
+        return `
+          <div class="glassmorphism rounded-3xl p-6 border border-slate-800 hover:border-cyan-500/50 transition-all duration-300 flex flex-col justify-between group hover:-translate-y-1 relative">
+            <div class="flex items-start justify-between gap-4 mb-4">
+              <div class="flex items-center gap-3">
+                <div class="relative">
+                  <img src="${b.avatar}" alt="${b.name}" class="w-14 h-14 rounded-2xl bg-slate-800 border border-slate-700 p-1 object-cover">
+                  <span class="absolute -bottom-1 -right-1 w-5 h-5 rounded-full bg-cyan-500 text-slate-950 font-black text-xs flex items-center justify-center">
+                    #${index + 1}
+                  </span>
+                </div>
+                <div>
+                  <h3 class="font-bold text-base text-white group-hover:text-cyan-400 transition">${b.name}</h3>
+                  <div class="text-xs text-slate-400 mt-0.5">${b.category}</div>
+                </div>
+              </div>
+              <div class="text-left">
+                <span class="inline-block px-2.5 py-1 rounded-lg bg-emerald-950/60 border border-emerald-800/70 text-emerald-400 text-xs font-bold">
+                  ★ ${b.score}
+                </span>
+              </div>
+            </div>
+
+            <!-- Bio snippet -->
+            <p class="text-xs text-slate-300 leading-relaxed line-clamp-2 mb-4">
+              ${b.bio}
+            </p>
+
+            <!-- Metrics bar -->
+            <div class="grid grid-cols-3 gap-2 bg-slate-900/80 rounded-2xl p-3 mb-4 border border-slate-800/80 text-center">
+              <div>
+                <div class="text-[10px] text-slate-400">مخاطبان</div>
+                <div class="text-sm font-black text-cyan-400 mt-0.5">${b.followers_formatted}</div>
+              </div>
+              <div class="border-x border-slate-800">
+                <div class="text-[10px] text-slate-400">انگیجمنت</div>
+                <div class="text-sm font-black text-emerald-400 mt-0.5">${b.engagement_rate}</div>
+              </div>
+              <div>
+                <div class="text-[10px] text-slate-400">میانگین ویو</div>
+                <div class="text-sm font-black text-teal-300 mt-0.5">${b.avg_views}</div>
+              </div>
+            </div>
+
+            <!-- Tags -->
+            <div class="flex flex-wrap gap-1.5 mb-5">
+              ${b.tags.map(t => `<span class="text-[10px] px-2 py-0.5 rounded-md bg-slate-800 text-slate-300 border border-slate-700/50">${t}</span>`).join('')}
+            </div>
+
+            <!-- Footer Action & Socials -->
+            <div class="pt-4 border-t border-slate-800/80 flex items-center justify-between">
+              <div class="flex items-center gap-2.5 text-slate-400 text-sm">
+                ${b.telegram_user ? `<a href="https://t.me/${b.telegram_user}" target="_blank" class="hover:text-cyan-400 transition" title="تلگرام"><i class="fa-brands fa-telegram"></i></a>` : ''}
+                ${b.instagram ? `<a href="https://instagram.com/${b.instagram}" target="_blank" class="hover:text-pink-400 transition" title="اینستاگرام"><i class="fa-brands fa-instagram"></i></a>` : ''}
+                ${b.youtube ? `<a href="https://youtube.com/${b.youtube}" target="_blank" class="hover:text-red-500 transition" title="یوتیوب"><i class="fa-brands fa-youtube"></i></a>` : ''}
+              </div>
+              <button onclick="openAnalysisModal('${b.id}')" class="px-3.5 py-1.5 rounded-xl bg-cyan-950/70 hover:bg-cyan-900 border border-cyan-700/50 text-cyan-300 text-xs font-semibold transition flex items-center gap-1.5">
+                <i class="fa-solid fa-chart-simple"></i>
+                <span>آنالیز پیج</span>
+              </button>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function openAnalysisModal(id) {
+      const b = bloggersData.find(item => item.id === id);
+      if (!b) return;
+
+      const modal = document.getElementById('analysisModal');
+      const content = document.getElementById('modalContent');
+
+      content.innerHTML = `
+        <div class="flex items-center gap-4 mb-6">
+          <img src="${b.avatar}" alt="${b.name}" class="w-16 h-16 rounded-2xl bg-slate-800 border border-slate-700 p-1">
+          <div>
+            <h2 class="text-xl font-black text-white">${b.name}</h2>
+            <p class="text-xs text-slate-400 mt-1">${b.real_name} • ${b.category}</p>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
+          <div class="bg-slate-950/60 p-3 rounded-xl border border-slate-800 text-center">
+            <div class="text-[11px] text-slate-400">تعداد دنبال‌کننده</div>
+            <div class="text-base font-extrabold text-cyan-400 mt-1">${b.followers_formatted}</div>
+          </div>
+          <div class="bg-slate-950/60 p-3 rounded-xl border border-slate-800 text-center">
+            <div class="text-[11px] text-slate-400">نرخ تعامل (Engagement)</div>
+            <div class="text-base font-extrabold text-emerald-400 mt-1">${b.engagement_rate}</div>
+          </div>
+          <div class="bg-slate-950/60 p-3 rounded-xl border border-slate-800 text-center">
+            <div class="text-[11px] text-slate-400">امتیاز کیفی رادار</div>
+            <div class="text-base font-extrabold text-yellow-400 mt-1">★ ${b.score} / 10</div>
+          </div>
+          <div class="bg-slate-950/60 p-3 rounded-xl border border-slate-800 text-center">
+            <div class="text-[11px] text-slate-400">پلتفرم اصلی</div>
+            <div class="text-xs font-extrabold text-slate-200 mt-1.5 truncate">${b.primary_platform}</div>
+          </div>
+        </div>
+
+        <div class="space-y-4">
+          <div class="bg-slate-950/40 p-4 rounded-2xl border border-slate-800">
+            <h4 class="text-xs font-bold text-cyan-400 mb-1 flex items-center gap-1.5">
+              <i class="fa-solid fa-bullseye"></i>
+              تخصص و قلمرو محتوایی (Niche)
+            </h4>
+            <p class="text-xs text-slate-300 leading-relaxed">${b.niche} — ${b.bio}</p>
+          </div>
+
+          <div class="bg-slate-950/40 p-4 rounded-2xl border border-slate-800">
+            <h4 class="text-xs font-bold text-emerald-400 mb-1 flex items-center gap-1.5">
+              <i class="fa-solid fa-thumbs-up"></i>
+              نقاط قوت و مزیت رقابتی
+            </h4>
+            <p class="text-xs text-slate-300 leading-relaxed">${b.analysis.strengths}</p>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <div class="bg-slate-950/40 p-4 rounded-2xl border border-slate-800">
+              <h4 class="text-xs font-bold text-teal-400 mb-1 flex items-center gap-1.5">
+                <i class="fa-solid fa-comments"></i>
+                واکنش و حس مخاطبان (Sentiment)
+              </h4>
+              <p class="text-xs text-slate-300 mt-1">${b.analysis.audience_sentiment}</p>
+            </div>
+
+            <div class="bg-slate-950/40 p-4 rounded-2xl border border-slate-800">
+              <h4 class="text-xs font-bold text-indigo-400 mb-1 flex items-center gap-1.5">
+                <i class="fa-solid fa-calendar-check"></i>
+                توالی انتشار محتوا
+              </h4>
+              <p class="text-xs text-slate-300 mt-1">${b.analysis.content_frequency}</p>
+            </div>
+          </div>
+
+          <div class="bg-slate-950/40 p-4 rounded-2xl border border-slate-800">
+            <h4 class="text-xs font-bold text-pink-400 mb-2 flex items-center gap-1.5">
+              <i class="fa-solid fa-video"></i>
+              فرمت‌های برتر و پرمخاطب
+            </h4>
+            <div class="flex flex-wrap gap-2">
+              ${b.analysis.top_formats.map(f => `<span class="text-xs px-2.5 py-1 rounded-lg bg-slate-900 text-slate-200 border border-slate-700">${f}</span>`).join('')}
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-6 pt-4 border-t border-slate-800 flex justify-end gap-3">
+          <button onclick="document.getElementById('analysisModal').classList.add('hidden')" class="px-5 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-xs font-medium text-slate-300 transition">
+            بستن پنجره
+          </button>
+        </div>
+      `;
+
+      modal.classList.remove('hidden');
+    }
+
+    document.getElementById('closeModalBtn').addEventListener('click', () => {
+      document.getElementById('analysisModal').classList.add('hidden');
+    });
+
+    document.getElementById('analysisModal').addEventListener('click', (e) => {
+      if (e.target.id === 'analysisModal') {
+        document.getElementById('analysisModal').classList.add('hidden');
+      }
+    });
+
+    document.getElementById('searchInput').addEventListener('input', renderBloggers);
+    document.getElementById('sortSelect').addEventListener('change', renderBloggers);
+
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => {
+          b.classList.remove('bg-cyan-600', 'text-white', 'active');
+          b.classList.add('bg-slate-800', 'text-slate-300');
+        });
+        btn.classList.remove('bg-slate-800', 'text-slate-300');
+        btn.classList.add('bg-cyan-600', 'text-white', 'active');
+        currentCategory = btn.dataset.cat;
+        renderBloggers();
+      });
+    });
+
+    loadData();
+  </script>
+</body>
+</html>
