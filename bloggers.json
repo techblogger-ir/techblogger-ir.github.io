@@ -3,56 +3,56 @@
     "id": "mobonews",
     "name": "مهدی شجاری | موبونیوز",
     "real_name": "مهدی شجاری",
-    "telegram_user": "mobonews",
     "instagram": "mobonews",
+    "telegram_user": "mobonews",
     "youtube": "@mobonews",
     "telegram_channel": "mobonews",
     "followers_count": 2616000,
     "followers_formatted": "2.6M+",
     "category": "بررسی موبایل و گجت",
-    "niche": "Mobile & Flagship Reviews",
+    "niche": "Smartphone & Flagship Reviews",
     "score": 9.7,
     "engagement_rate": "3.8%",
     "avg_views": "447K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=mobonews",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه بررسی موبایل و گجت با تمرکز بر Mobile & Flagship Reviews",
+    "bio": "بررسی تخصصی گوشی‌های موبایل، مقایسه پرچمداران، تست دوربین و باتری، و راهنمای خرید دقیق بازار ایران",
     "tags": [
       "بررسی",
-      "Mobile",
+      "Smartphone",
       "تکنولوژی",
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Mobile & Flagship Reviews، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Smartphone & Flagship Reviews، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "ahmadreza.vps",
-    "name": "احمدرضا وی‌پی‌اس | Ahmadreza VPS",
+    "name": "احمدرضا | Ahmadreza VPS",
     "real_name": "احمدرضا",
-    "telegram_user": "ahmadreza.vps",
     "instagram": "ahmadreza.vps",
+    "telegram_user": "ahmadreza_vps",
     "youtube": "@ahmadreza.vps",
     "telegram_channel": "ahmadreza.vps",
     "followers_count": 1420000,
     "followers_formatted": "1.4M+",
     "category": "آموزش و ترفند فناوری",
-    "niche": "Tech Tips, Windows & Mobile",
+    "niche": "Tech Tips, Windows & Mobile Hacks",
     "score": 9.4,
     "engagement_rate": "4.2%",
     "avg_views": "268K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=ahmadreza.vps",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه آموزش و ترفند فناوری با تمرکز بر Tech Tips, Windows & Mobile",
+    "bio": "آموزش ترفندهای کاربردی ویندوز و موبایل، معرفی ابزارهای روزمره و حل مشکلات رایج سیستم‌های کامپیوتری",
     "tags": [
       "آموزش",
       "Tech",
@@ -60,107 +60,35 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Tech Tips, Windows & Mobile، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
-    }
-  },
-  {
-    "id": "zoomitir",
-    "name": "زومیت | Zoomit",
-    "real_name": "رسانه زومیت",
-    "telegram_user": "zoomitir",
-    "instagram": "zoomitir",
-    "youtube": "@zoomitir",
-    "telegram_channel": "zoomitir",
-    "followers_count": 1380000,
-    "followers_formatted": "1.4M+",
-    "category": "رسانه فناوری و گجت",
-    "niche": "Tech Media, Guides & Hardware",
-    "score": 9.6,
-    "engagement_rate": "3.5%",
-    "avg_views": "217K",
-    "primary_platform": "Instagram / YouTube",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=zoomitir",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه رسانه فناوری و گجت با تمرکز بر Tech Media, Guides & Hardware",
-    "tags": [
-      "رسانه",
-      "Tech",
-      "تکنولوژی",
-      "ایران"
-    ],
-    "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
-      "content_frequency": "۳ الی ۵ پست در هفته",
-      "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
-      ],
-      "strengths": "تسلط عمیق روی Tech Media, Guides & Hardware، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
-    }
-  },
-  {
-    "id": "digiato",
-    "name": "دیجیاتو | Digiato",
-    "real_name": "رسانه دیجیاتو",
-    "telegram_user": "digiato",
-    "instagram": "digiato",
-    "youtube": "@digiato",
-    "telegram_channel": "digiato",
-    "followers_count": 683000,
-    "followers_formatted": "683K+",
-    "category": "رسانه فناوری و نوآوری",
-    "niche": "Tech News, Automotive & Science",
-    "score": 9.3,
-    "engagement_rate": "3.2%",
-    "avg_views": "98K",
-    "primary_platform": "Instagram / YouTube",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=digiato",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه رسانه فناوری و نوآوری با تمرکز بر Tech News, Automotive & Science",
-    "tags": [
-      "رسانه",
-      "Tech",
-      "تکنولوژی",
-      "ایران"
-    ],
-    "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
-      "content_frequency": "۳ الی ۵ پست در هفته",
-      "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
-      ],
-      "strengths": "تسلط عمیق روی Tech News, Automotive & Science، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Tech Tips, Windows & Mobile Hacks، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "jadi.jadi",
     "name": "جادی میرمیرانی | Jadi",
     "real_name": "جادی میرمیرانی",
-    "telegram_user": "jadi.jadi",
     "instagram": "jadi.jadi",
+    "telegram_user": "jadijadi",
     "youtube": "@jadi.jadi",
     "telegram_channel": "jadi.jadi",
     "followers_count": 520000,
     "followers_formatted": "520K+",
     "category": "برنامه‌نویسی و جامعه بازمتن",
-    "niche": "Open Source, Linux, AI & Python",
+    "niche": "Open Source, Linux, Python & AI",
     "score": 9.9,
     "engagement_rate": "7.2%",
     "avg_views": "168K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=jadi.jadi",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه برنامه‌نویسی و جامعه بازمتن با تمرکز بر Open Source, Linux, AI & Python",
+    "bio": "فرهنگ نرم‌افزار آزاد، آموزش گام به گام برنامه‌نویسی پایتون و لینوکس، پادکست رادیوگیک و ترویج دانش باز",
     "tags": [
       "برنامه‌نویسی",
       "Open",
@@ -168,35 +96,35 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Open Source, Linux, AI & Python، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Open Source, Linux, Python & AI، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "myditech",
-    "name": "مایدیتک | MydiTech",
+    "name": "مهدی یحیی‌پور | مایدیتک",
     "real_name": "مهدی یحیی‌پور",
-    "telegram_user": "myditech",
     "instagram": "myditech",
+    "telegram_user": "myditech",
     "youtube": "@myditech",
     "telegram_channel": "myditech",
     "followers_count": 485000,
     "followers_formatted": "485K+",
-    "category": "بررسی گجت و موبایل",
-    "niche": "Mobile & Gadget Review",
+    "category": "بررسی موبایل و سخت‌افزار",
+    "niche": "Mobile & Gadget Deep Reviews",
     "score": 9.5,
     "engagement_rate": "4.8%",
     "avg_views": "104K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=myditech",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه بررسی گجت و موبایل با تمرکز بر Mobile & Gadget Review",
+    "bio": "بررسی دقیق پرچمداران، تست‌های چالشی دوربین و باتری بدون تعصب، و بررسی نقاط قوت و ضعف گجت‌ها",
     "tags": [
       "بررسی",
       "Mobile",
@@ -204,35 +132,35 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Mobile & Gadget Review، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Mobile & Gadget Deep Reviews، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "milad_nouri",
     "name": "میلاد نوری | Milad Nouri",
     "real_name": "میلاد نوری",
-    "telegram_user": "milad_nouri",
     "instagram": "milad_nouri",
+    "telegram_user": "miladnouri",
     "youtube": "@milad_nouri",
     "telegram_channel": "milad_nouri",
     "followers_count": 410000,
     "followers_formatted": "410K+",
-    "category": "توسعه نرم‌افزار و نقد اکوسیستم",
+    "category": "توسعه نرم‌افزار و اکوسیستم",
     "niche": "Software Engineering & Tech Critique",
     "score": 9.6,
     "engagement_rate": "6.8%",
     "avg_views": "125K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=milad_nouri",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه توسعه نرم‌افزار و نقد اکوسیستم با تمرکز بر Software Engineering & Tech Critique",
+    "bio": "توسعه‌دهنده ارشد نرم‌افزار، نقد تخصصی اکوسیستم فناوری ایران، بررسی باگ‌های امنیتی و تحلیل استارتاپ‌ها",
     "tags": [
       "توسعه",
       "Software",
@@ -240,59 +168,59 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Software Engineering & Tech Critique، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Software Engineering & Tech Critique، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "arash.khodaie",
     "name": "آرش خدایی | Arash Khodaie",
     "real_name": "آرش خدایی",
-    "telegram_user": "arash.khodaie",
     "instagram": "arash.khodaie",
+    "telegram_user": "arashkhodaie",
     "youtube": "@arash.khodaie",
     "telegram_channel": "arash.khodaie",
     "followers_count": 390000,
     "followers_formatted": "390K+",
-    "category": "گجت و تکنولوژی آینده",
-    "niche": "Consumer Tech & Future Gadgets",
+    "category": "گجت و فناوری‌های آینده",
+    "niche": "Future Tech & Smart Gadgets",
     "score": 9.1,
     "engagement_rate": "4.5%",
     "avg_views": "78K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=arash.khodaie",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه گجت و تکنولوژی آینده با تمرکز بر Consumer Tech & Future Gadgets",
+    "bio": "معرفی گجت‌های هوشمند سبک زندگی، فناوری‌های انقلابی روز دنیا و ابزارهای هوشمند نسل بعد",
     "tags": [
       "گجت",
-      "Consumer",
+      "Future",
       "تکنولوژی",
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Consumer Tech & Future Gadgets، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Future Tech & Smart Gadgets، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "pedram.pdr",
     "name": "پدرام تک | Pedram Tech",
     "real_name": "پدرام",
-    "telegram_user": "pedram.pdr",
     "instagram": "pedram.pdr",
+    "telegram_user": "pedramtech",
     "youtube": "@pedram.pdr",
     "telegram_channel": "pedram.pdr",
     "followers_count": 340000,
@@ -302,9 +230,9 @@
     "score": 9.0,
     "engagement_rate": "4.9%",
     "avg_views": "74K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=pedram.pdr",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه بررسی و مقایسه موبایل با تمرکز بر Smartphone Battles & Camera Tests",
+    "bio": "دوئل‌های جذاب گوشی‌های میان‌رده و پرچمدار، تست مقایسه‌ای کیفیت عکس و ویدیو و راهنمای خرید",
     "tags": [
       "بررسی",
       "Smartphone",
@@ -312,23 +240,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Smartphone Battles & Camera Tests، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Smartphone Battles & Camera Tests، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "m4tinbeigi",
     "name": "ریک سانچز | Rick Sanchez",
     "real_name": "ریک سانچز (C-137)",
-    "telegram_user": "m4tinbeigi",
     "instagram": "m4tinbeigi",
+    "telegram_user": "M4tinBeigiPV",
     "youtube": "@m4tinbeigi",
     "telegram_channel": "m4tinbeigi",
     "followers_count": 310000,
@@ -338,9 +266,9 @@
     "score": 9.8,
     "engagement_rate": "8.4%",
     "avg_views": "117K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=m4tinbeigi",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه وایب کدینگ و هوش مصنوعی با تمرکز بر Vibe Coding & Autonomous AI",
+    "bio": "وایب کدینگ، معماری سیستم‌های خودمختار، مهندسی پرامپت پیشرفته و توسعه ابزارهای نسل بعد هوش مصنوعی",
     "tags": [
       "وایب",
       "Vibe",
@@ -348,23 +276,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Vibe Coding & Autonomous AI، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Vibe Coding & Autonomous AI، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "oldboye_tech",
     "name": "شادان غمگسار | OldBoye",
     "real_name": "شادان غمگسار",
-    "telegram_user": "oldboye_tech",
     "instagram": "oldboye_tech",
+    "telegram_user": "OldBoye",
     "youtube": "@oldboye_tech",
     "telegram_channel": "oldboye_tech",
     "followers_count": 275000,
@@ -374,9 +302,9 @@
     "score": 9.2,
     "engagement_rate": "5.2%",
     "avg_views": "64K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=oldboye_tech",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه سخت‌افزار و گجت‌های خاص با تمرکز بر Hardware Insights & Deep Tech",
+    "bio": "تست عمیق گجت‌ها، کشف ریزه‌کاری‌های فنی سخت‌افزار که دیگران نادیده می‌گیرند و بررسی موشکافانه",
     "tags": [
       "سخت‌افزار",
       "Hardware",
@@ -384,59 +312,59 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Hardware Insights & Deep Tech، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Hardware Insights & Deep Tech، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
-    "id": "binosha.mag",
-    "name": "حسین کزازی | بینوشا",
+    "id": "hkazazi",
+    "name": "حسین کزازی | Hosein Kazazi",
     "real_name": "حسین کزازی",
-    "telegram_user": "binosha.mag",
     "instagram": "binosha.mag",
-    "youtube": "@binosha.mag",
-    "telegram_channel": "binosha.mag",
+    "telegram_user": "hkazazi",
+    "youtube": "@hkazazi",
+    "telegram_channel": "hkazazi",
     "followers_count": 260000,
     "followers_formatted": "260K+",
-    "category": "رسانه فناوری و ویدیوکست",
-    "niche": "Tech Media & BinoshaCast",
+    "category": "تولید محتوا و تحلیل فناوری",
+    "niche": "Tech Production & BinoshaCast",
     "score": 9.3,
     "engagement_rate": "4.7%",
     "avg_views": "54K",
-    "primary_platform": "Instagram / YouTube",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=binosha.mag",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه رسانه فناوری و ویدیوکست با تمرکز بر Tech Media & BinoshaCast",
+    "primary_platform": "Instagram",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=hkazazi",
+    "bio": "تحلیل جریان‌های اصلی تکنولوژی، تولید برنامه‌های ویدیویی و پادکست تخصصی پیرامون ابزارهای دیجیتال",
     "tags": [
-      "رسانه",
+      "تولید",
       "Tech",
       "تکنولوژی",
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Tech Media & BinoshaCast، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Tech Production & BinoshaCast، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "iotechoi",
     "name": "مسعود | عایوتک (iOT Echo)",
     "real_name": "مسعود عایوتک",
-    "telegram_user": "iotechoi",
     "instagram": "iotechoi",
+    "telegram_user": "masontheking",
     "youtube": "@iotechoi",
     "telegram_channel": "iotechoi",
     "followers_count": 230000,
@@ -446,9 +374,9 @@
     "score": 9.1,
     "engagement_rate": "6.5%",
     "avg_views": "67K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=iotechoi",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه ابزارها و هوش مصنوعی کاربردی با تمرکز بر AI Tools & Secret Sites",
+    "bio": "معرفی سایت‌های مخفی، هوش‌های مصنوعی رایگان، ترفندهای حل تحریم و دور زدن محدودیت‌های آنلاین",
     "tags": [
       "ابزارها",
       "AI",
@@ -456,35 +384,35 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی AI Tools & Secret Sites، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی AI Tools & Secret Sites، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "militech_ir",
     "name": "میلاد کرد | میلی‌تک",
     "real_name": "میلاد کرد",
-    "telegram_user": "militech_ir",
     "instagram": "militech_ir",
+    "telegram_user": "milaadkord",
     "youtube": "@militech_ir",
     "telegram_channel": "militech_ir",
     "followers_count": 195000,
     "followers_formatted": "195K+",
-    "category": "ترفندهای موبایل و اکانت‌ها",
+    "category": "ترفندهای موبایل و اشتراک‌ها",
     "niche": "Mobile Hacks & Digital Accounts",
     "score": 8.9,
     "engagement_rate": "5.9%",
     "avg_views": "51K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=militech_ir",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه ترفندهای موبایل و اکانت‌ها با تمرکز بر Mobile Hacks & Digital Accounts",
+    "bio": "ترفندهای کاربردی گوشی‌های آیفون و اندروید، حل باگ‌های اپلیکیشن‌ها و خدمات اکانت‌های پرمیوم",
     "tags": [
       "ترفندهای",
       "Mobile",
@@ -492,71 +420,35 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Mobile Hacks & Digital Accounts، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Mobile Hacks & Digital Accounts، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "yaramuzesh",
     "name": "یارا منصوریان | یارآموزش",
     "real_name": "یارا منصوریان",
-    "telegram_user": "yaramuzesh",
     "instagram": "yaramuzesh",
+    "telegram_user": "Yaramansoorian",
     "youtube": "@yaramuzesh",
     "telegram_channel": "yaramuzesh",
     "followers_count": 185000,
     "followers_formatted": "185K+",
-    "category": "آموزش هوش مصنوعی و ادیت ویدیو",
+    "category": "هوش مصنوعی و ادیت ویدیو",
     "niche": "AI Generation & Video Editing",
     "score": 8.9,
     "engagement_rate": "6.1%",
     "avg_views": "50K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=yaramuzesh",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه آموزش هوش مصنوعی و ادیت ویدیو با تمرکز بر AI Generation & Video Editing",
-    "tags": [
-      "آموزش",
-      "AI",
-      "تکنولوژی",
-      "ایران"
-    ],
-    "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
-      "content_frequency": "۳ الی ۵ پست در هفته",
-      "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
-      ],
-      "strengths": "تسلط عمیق روی AI Generation & Video Editing، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
-    }
-  },
-  {
-    "id": "adelamin.tech",
-    "name": "عادل خان | عادل امین",
-    "real_name": "عادل امین",
-    "telegram_user": "adelamin.tech",
-    "instagram": "adelamin.tech",
-    "youtube": "@adelamin.tech",
-    "telegram_channel": "adelamin.tech",
-    "followers_count": 170000,
-    "followers_formatted": "170K+",
-    "category": "هوش مصنوعی و اتوماسیون",
-    "niche": "AI Workflow & Productivity",
-    "score": 9.0,
-    "engagement_rate": "5.6%",
-    "avg_views": "42K",
-    "primary_platform": "Instagram / YouTube",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=adelamin.tech",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه هوش مصنوعی و اتوماسیون با تمرکز بر AI Workflow & Productivity",
+    "bio": "آموزش ساخت تصویر و انیمیشن با هوش مصنوعی، پرامپت‌نویسی حرفه‌ای و تکنیک‌های ادیت با کپ‌کات",
     "tags": [
       "هوش",
       "AI",
@@ -564,23 +456,59 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی AI Workflow & Productivity، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی AI Generation & Video Editing، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
+    }
+  },
+  {
+    "id": "adelamin.tech",
+    "name": "عادل خان | عادل امین",
+    "real_name": "عادل امین",
+    "instagram": "adelamin.tech",
+    "telegram_user": "adelamiin",
+    "youtube": "@adelamin.tech",
+    "telegram_channel": "adelamin.tech",
+    "followers_count": 170000,
+    "followers_formatted": "170K+",
+    "category": "هوش مصنوعی و اتوماسیون",
+    "niche": "AI Workflow & Productivity Tools",
+    "score": 9.0,
+    "engagement_rate": "5.6%",
+    "avg_views": "42K",
+    "primary_platform": "Instagram",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=adelamin.tech",
+    "bio": "معرفی جدیدترین مدل‌های هوش مصنوعی، ابزارهای کاربردی برای کارهای اداری و خودکارسازی فعالیت‌ها",
+    "tags": [
+      "هوش",
+      "AI",
+      "تکنولوژی",
+      "ایران"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
+      "content_frequency": "۳ الی ۵ پست در هفته",
+      "top_formats": [
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط عمیق روی AI Workflow & Productivity Tools، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "databy_mina",
     "name": "مینا خسروی | Data By Mina",
     "real_name": "مینا خسروی",
-    "telegram_user": "databy_mina",
     "instagram": "databy_mina",
+    "telegram_user": "Creator_DBM",
     "youtube": "@databy_mina",
     "telegram_channel": "databy_mina",
     "followers_count": 145000,
@@ -590,9 +518,9 @@
     "score": 9.2,
     "engagement_rate": "6.8%",
     "avg_views": "44K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=databy_mina",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه علم داده و هوش تجاری با تمرکز بر Data Science & Python",
+    "bio": "آموزش گام به گام ورود به دنیای تحلیل داده، برنامه‌نویسی پایتون و ابزارهای هوش تجاری (PowerBI)",
     "tags": [
       "علم",
       "Data",
@@ -600,23 +528,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Data Science & Python، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Data Science & Python، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "amiresuba",
     "name": "امیر مختاری | Amir Mokhtari",
     "real_name": "امیر مختاری",
-    "telegram_user": "amiresuba",
     "instagram": "amiresuba",
+    "telegram_user": "AmireSuba",
     "youtube": "@amiresuba",
     "telegram_channel": "amiresuba",
     "followers_count": 130000,
@@ -626,9 +554,9 @@
     "score": 8.8,
     "engagement_rate": "5.3%",
     "avg_views": "31K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=amiresuba",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه سخت‌افزار و گیمینگ PC با تمرکز بر PC Hardware & Benchmarks",
+    "bio": "بررسی کارت گرافیک و پردازنده، بنچمارک فریم بازی‌ها، آموزش اسمبل و راهنمای خرید سیستم",
     "tags": [
       "سخت‌افزار",
       "PC",
@@ -636,35 +564,35 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی PC Hardware & Benchmarks، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی PC Hardware & Benchmarks، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "imantrick",
     "name": "ایمان تریک | Iman Trick",
     "real_name": "ایمان",
-    "telegram_user": "imantrick",
     "instagram": "imantrick",
+    "telegram_user": "imantrick_ad",
     "youtube": "@imantrick",
     "telegram_channel": "imantrick",
     "followers_count": 125000,
     "followers_formatted": "125K+",
-    "category": "ترفندهای ویندوز و نرم‌افزار",
+    "category": "ترفندهای نرم‌افزاری و ویندوز",
     "niche": "Software Shortcuts & System Hacks",
     "score": 8.7,
     "engagement_rate": "5.5%",
     "avg_views": "30K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=imantrick",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه ترفندهای ویندوز و نرم‌افزار با تمرکز بر Software Shortcuts & System Hacks",
+    "bio": "شورتکات‌های سریع کیبورد، افزایش سرعت کار با ویندوز و مک، و معرفی نرم‌افزارهای کم‌حجم کاربردی",
     "tags": [
       "ترفندهای",
       "Software",
@@ -672,23 +600,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Software Shortcuts & System Hacks، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Software Shortcuts & System Hacks، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "techmohsen",
     "name": "تک محسن | Tech Mohsen",
     "real_name": "محسن",
-    "telegram_user": "techmohsen",
     "instagram": "techmohsen",
+    "telegram_user": "TechMohsenSupport",
     "youtube": "@techmohsen",
     "telegram_channel": "techmohsen",
     "followers_count": 115000,
@@ -698,9 +626,9 @@
     "score": 8.6,
     "engagement_rate": "5.1%",
     "avg_views": "26K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=techmohsen",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه معرفی اپلیکیشن و وب با تمرکز بر Mobile Apps & Tools",
+    "bio": "معرفی اپلیکیشن‌های خاص و کاربردی برای موبایل، سایت‌های جالب آنلاین و راه‌حل‌های سریع هوشمند",
     "tags": [
       "معرفی",
       "Mobile",
@@ -708,23 +636,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Mobile Apps & Tools، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Mobile Apps & Tools، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "soheilunbox",
-    "name": "سهیل آنباکس | Soheil Unbox",
+    "name": "سهیل داوودی | Soheil Unbox",
     "real_name": "سهیل داوودی",
-    "telegram_user": "soheilunbox",
     "instagram": "soheilunbox",
+    "telegram_user": "S_dav",
     "youtube": "@soheilunbox",
     "telegram_channel": "soheilunbox",
     "followers_count": 105000,
@@ -734,9 +662,9 @@
     "score": 8.8,
     "engagement_rate": "5.4%",
     "avg_views": "25K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=soheilunbox",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه آنباکسینگ و تجهیزات استودیو با تمرکز بر Studio Gear & Audio Aesthetics",
+    "bio": "آنباکسینگ تجهیزات تولید محتوا، میکروفون‌های استودیویی، نورپردازی و گجت‌های هوشمند اتاق کار",
     "tags": [
       "آنباکسینگ",
       "Studio",
@@ -744,23 +672,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Studio Gear & Audio Aesthetics، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Studio Gear & Audio Aesthetics، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "aminkhs_tech",
     "name": "امین خلیقی | Amin Khalighi",
     "real_name": "امین خلیقی",
-    "telegram_user": "aminkhs_tech",
     "instagram": "aminkhs_tech",
+    "telegram_user": "Aminkhs",
     "youtube": "@aminkhs_tech",
     "telegram_channel": "aminkhs_tech",
     "followers_count": 88000,
@@ -770,9 +698,9 @@
     "score": 9.3,
     "engagement_rate": "7.8%",
     "avg_views": "30K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=aminkhs_tech",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه برنامه‌نویسی وب و فرانت‌اند با تمرکز بر Frontend Architecture & React",
+    "bio": "برنامه‌نویسی ری‌اکت و نکست‌جی‌اس، معماری فرانت‌اند در مقیاس پروداکشن و نکات کلین‌کد",
     "tags": [
       "برنامه‌نویسی",
       "Frontend",
@@ -780,35 +708,35 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Frontend Architecture & React، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Frontend Architecture & React، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "alirezaes20",
     "name": "علیرضا اصلاحچی | Alireza Eslahchi",
     "real_name": "علیرضا اصلاحچی",
-    "telegram_user": "alirezaes20",
     "instagram": "alirezaes20",
+    "telegram_user": "alirezaes20ir",
     "youtube": "@alirezaes20",
     "telegram_channel": "alirezaes20",
     "followers_count": 82000,
     "followers_formatted": "82K+",
-    "category": "رویدادهای جهانی تک (جیتکس)",
+    "category": "رویدادهای جهانی (جیتکس)",
     "niche": "Tech Events & GITEX Coverage",
     "score": 8.7,
     "engagement_rate": "5.2%",
     "avg_views": "19K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=alirezaes20",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه رویدادهای جهانی تک (جیتکس) با تمرکز بر Tech Events & GITEX Coverage",
+    "bio": "گزارش زنده از رویداد جیتکس دبی، جدیدترین اختراعات تکنولوژی، رباتیک و فناوری‌های نوین جهانی",
     "tags": [
       "رویدادهای",
       "Tech",
@@ -816,35 +744,35 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Tech Events & GITEX Coverage، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Tech Events & GITEX Coverage، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "nima_click",
     "name": "نیما کلیک | Nima Click",
     "real_name": "نیما",
-    "telegram_user": "nima_click",
     "instagram": "nima_click",
+    "telegram_user": "Nima_click",
     "youtube": "@nima_click",
     "telegram_channel": "nima_click",
     "followers_count": 76000,
     "followers_formatted": "76K+",
-    "category": "امنیت دیجیتال و حریم خصوصی",
+    "category": "امنیت سایبری و حریم خصوصی",
     "niche": "Cybersecurity Tips & Privacy",
     "score": 8.6,
     "engagement_rate": "5.7%",
     "avg_views": "19K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nima_click",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه امنیت دیجیتال و حریم خصوصی با تمرکز بر Cybersecurity Tips & Privacy",
+    "bio": "افزایش امنیت اکانت‌های شبکه‌های اجتماعی، شناسایی پیام‌های جعلی و فیشینگ و حفظ حریم خصوصی",
     "tags": [
       "امنیت",
       "Cybersecurity",
@@ -852,35 +780,35 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Cybersecurity Tips & Privacy، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Cybersecurity Tips & Privacy، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "hamid_sedaghatt",
     "name": "حمید صداقت | Hamid Sedaghat",
     "real_name": "حمید صداقت",
-    "telegram_user": "hamid_sedaghatt",
     "instagram": "hamid_sedaghatt",
+    "telegram_user": "hammid_sedaghat",
     "youtube": "@hamid_sedaghatt",
     "telegram_channel": "hamid_sedaghatt",
     "followers_count": 71000,
     "followers_formatted": "71K+",
     "category": "اتوماسیون بیزینس و سوشال",
-    "niche": "Social Media Automation",
+    "niche": "Social Media Automation & Growth",
     "score": 8.7,
     "engagement_rate": "6.0%",
     "avg_views": "19K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=hamid_sedaghatt",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه اتوماسیون بیزینس و سوشال با تمرکز بر Social Media Automation",
+    "bio": "اتوماسیون دایرکت و فروش اینستاگرام، استفاده از هوش مصنوعی برای تحلیل محتوا و سیستم‌سازی پیج",
     "tags": [
       "اتوماسیون",
       "Social",
@@ -888,23 +816,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Social Media Automation، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Social Media Automation & Growth، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "aliikashanii",
     "name": "علی کاشانی | Ali Kashani",
     "real_name": "علی کاشانی",
-    "telegram_user": "aliikashanii",
     "instagram": "aliikashanii",
+    "telegram_user": "aliikashanii",
     "youtube": "@aliikashanii",
     "telegram_channel": "aliikashanii",
     "followers_count": 68000,
@@ -914,9 +842,9 @@
     "score": 8.5,
     "engagement_rate": "4.9%",
     "avg_views": "14K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=aliikashanii",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه ساعت هوشمند و لوازم جانبی با تمرکز بر Smartwatch & Gadget Accessories",
+    "bio": "بررسی ساعت‌های هوشمند، هندزفری‌های بلوتوثی اقتصادی و معرفی گجت‌های کاربردی روزمره",
     "tags": [
       "ساعت",
       "Smartwatch",
@@ -924,23 +852,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Smartwatch & Gadget Accessories، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Smartwatch & Gadget Accessories، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "mehrana_tech",
     "name": "مهرانا عیسوی‌پور | Mehrana",
     "real_name": "مهرانا عیسوی‌پور",
-    "telegram_user": "mehrana_tech",
     "instagram": "mehrana_tech",
+    "telegram_user": "Mehranaisp",
     "youtube": "@mehrana_tech",
     "telegram_channel": "mehrana_tech",
     "followers_count": 62000,
@@ -950,9 +878,9 @@
     "score": 8.9,
     "engagement_rate": "6.4%",
     "avg_views": "17K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=mehrana_tech",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه طراحی رابط کاربری (UI/UX) با تمرکز بر UI/UX Design & Figma",
+    "bio": "آموزش دیزاین با فیگما، اصول طراحی تجربه کاربری، ساخت دیزاین سیستم و تلفیق هوش مصنوعی در طراحی",
     "tags": [
       "طراحی",
       "UI/UX",
@@ -960,23 +888,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی UI/UX Design & Figma، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی UI/UX Design & Figma، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "alifadaie_tech",
     "name": "امیرعلی فدایی | Ali Fadaie",
     "real_name": "امیرعلی فدایی",
-    "telegram_user": "alifadaie_tech",
     "instagram": "alifadaie_tech",
+    "telegram_user": "Alifadaieee",
     "youtube": "@alifadaie_tech",
     "telegram_channel": "alifadaie_tech",
     "followers_count": 59000,
@@ -986,9 +914,9 @@
     "score": 8.4,
     "engagement_rate": "5.0%",
     "avg_views": "13K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=alifadaie_tech",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه تکنولوژی مالی و فین‌تک با تمرکز بر FinTech & Banking Cards",
+    "bio": "بررسی کارت‌های بانکی جدید، نئوبانک‌ها، اپلیکیشن‌های پرداخت و خدمات آنلاین سیستم مالی کشور",
     "tags": [
       "تکنولوژی",
       "FinTech",
@@ -996,23 +924,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی FinTech & Banking Cards، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی FinTech & Banking Cards، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "hossein_ayoubi",
     "name": "حسین ایوبی | Hossein Ayoubi",
     "real_name": "حسین ایوبی",
-    "telegram_user": "hossein_ayoubi",
     "instagram": "hossein_ayoubi",
+    "telegram_user": "hossein_aub",
     "youtube": "@hossein_ayoubi",
     "telegram_channel": "hossein_ayoubi",
     "followers_count": 54000,
@@ -1022,9 +950,9 @@
     "score": 8.8,
     "engagement_rate": "6.6%",
     "avg_views": "16K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=hossein_ayoubi",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه برنامه‌نویسی پایتون و جنگو با تمرکز بر Python, Django & Backend",
+    "bio": "آموزش بک‌اند با پایتون و جنگو، ساخت ربات‌های تلگرام و اصول اسکریپت‌نویسی کاربردی",
     "tags": [
       "برنامه‌نویسی",
       "Python,",
@@ -1032,23 +960,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Python, Django & Backend، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Python, Django & Backend، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "sinaimani_tech",
     "name": "سینا ایمانی | Sina Imani",
     "real_name": "سینا ایمانی",
-    "telegram_user": "sinaimani_tech",
     "instagram": "sinaimani_tech",
+    "telegram_user": "sina_Imani",
     "youtube": "@sinaimani_tech",
     "telegram_channel": "sinaimani_tech",
     "followers_count": 48000,
@@ -1058,9 +986,9 @@
     "score": 8.5,
     "engagement_rate": "5.3%",
     "avg_views": "11K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sinaimani_tech",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه سئو تکنیکال و سرعت سایت با تمرکز بر Technical SEO & WordPress",
+    "bio": "بهینه‌سازی سرعت و پرفورمنس سایت‌های وردپرسی، سئوی تکنیکال و ابزارهای رنک‌گیری در گوگل",
     "tags": [
       "سئو",
       "Technical",
@@ -1068,23 +996,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Technical SEO & WordPress، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Technical SEO & WordPress، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "alirezaafshar_tech",
     "name": "علیرضا افشار | Alireza Afshar",
     "real_name": "علیرضا افشار",
-    "telegram_user": "alirezaafshar_tech",
     "instagram": "alirezaafshar_tech",
+    "telegram_user": "Alirezaafshar_ad",
     "youtube": "@alirezaafshar_tech",
     "telegram_channel": "alirezaafshar_tech",
     "followers_count": 45000,
@@ -1094,9 +1022,9 @@
     "score": 8.4,
     "engagement_rate": "4.8%",
     "avg_views": "9K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=alirezaafshar_tech",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه مارکتینگ تکنولوژی و تبلیغات با تمرکز بر Tech Marketing & Campaigns",
+    "bio": "استراتژی کمپین‌های تبلیغاتی برای برندهای تکنولوژی، اینفلوئنسر مارکتینگ و تحلیل بازدهی کمپین‌ها",
     "tags": [
       "مارکتینگ",
       "Tech",
@@ -1104,23 +1032,23 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی Tech Marketing & Campaigns، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی Tech Marketing & Campaigns، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   },
   {
     "id": "hamidreza_mohammadi_tech",
     "name": "حمیدرضا محمدی | Hamidreza",
     "real_name": "حمیدرضا محمدی",
-    "telegram_user": "hamidreza_mohammadi_tech",
     "instagram": "hamidreza_mohammadi_tech",
+    "telegram_user": "Hamidreza_mohmmdi",
     "youtube": "@hamidreza_mohammadi_tech",
     "telegram_channel": "hamidreza_mohammadi_tech",
     "followers_count": 42000,
@@ -1130,9 +1058,9 @@
     "score": 8.9,
     "engagement_rate": "6.2%",
     "avg_views": "11K",
-    "primary_platform": "Instagram / YouTube",
+    "primary_platform": "Instagram",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=hamidreza_mohammadi_tech",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه دواپس و لینوکس کلود با تمرکز بر DevOps, Cloud & Linux",
+    "bio": "کانتینرسازی با داکر و کوبرنتیز، زیرساخت‌های ابری، مدیریت سرورهای لینوکس و اتوماسیون CI/CD",
     "tags": [
       "دواپس",
       "DevOps,",
@@ -1140,15 +1068,15 @@
       "ایران"
     ],
     "analysis": {
-      "audience_sentiment": "بسیار مثبت و وفادار (۹۰٪+ رضایت مخاطبان)",
+      "audience_sentiment": "بسیار مثبت و وفادار (۹۲٪+ رضایت)",
       "content_frequency": "۳ الی ۵ پست در هفته",
       "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
+        "ریلزهای سریع و تخصصی",
+        "ویدیوهای تحلیلی",
+        "استوری‌های تعاملی"
       ],
-      "strengths": "تسلط عمیق روی DevOps, Cloud & Linux، ارتباط موثر با مخاطبان و ثبات بالا در تولید محتوا",
-      "monetization": "اسپانسرشیپ تخصصی برندهای حوزه تکنولوژی، همکاری‌های ریلز و استوری"
+      "strengths": "تسلط عمیق روی DevOps, Cloud & Linux، ارتباط مستقیم با کامیونیتی و استمرار در تولید محتوا",
+      "monetization": "اسپانسرشیپ اختصاصی، معرفی محصولات تک و خدمات مشاوره‌ای/آموزشی"
     }
   }
 ]

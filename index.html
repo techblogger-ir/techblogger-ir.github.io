@@ -275,7 +275,14 @@
                 </div>
                 <div>
                   <h3 class="font-bold text-base text-white group-hover:text-cyan-400 transition">${b.name}</h3>
-                  <div class="text-xs text-slate-400 mt-0.5">${b.category}</div>
+                  <div class="flex items-center gap-1.5 mt-1">
+                    <span class="text-xs text-pink-400 font-mono font-medium dir-ltr inline-flex items-center gap-1">
+                      <i class="fa-brands fa-instagram text-sm"></i>
+                      @${b.instagram}
+                    </span>
+                    <span class="text-slate-600">•</span>
+                    <span class="text-[11px] text-slate-400">${b.category}</span>
+                  </div>
                 </div>
               </div>
               <div class="text-left">
@@ -340,7 +347,16 @@
           <img src="${b.avatar}" alt="${b.name}" class="w-16 h-16 rounded-2xl bg-slate-800 border border-slate-700 p-1">
           <div>
             <h2 class="text-xl font-black text-white">${b.name}</h2>
-            <p class="text-xs text-slate-400 mt-1">${b.real_name} • ${b.category}</p>
+            <div class="flex items-center gap-2 mt-1">
+              <a href="https://instagram.com/${b.instagram}" target="_blank" class="text-xs text-pink-400 hover:text-pink-300 font-mono font-semibold flex items-center gap-1">
+                <i class="fa-brands fa-instagram"></i>
+                @${b.instagram}
+              </a>
+              <span class="text-slate-600">•</span>
+              <span class="text-xs text-slate-400">${b.real_name}</span>
+              <span class="text-slate-600">•</span>
+              <span class="text-xs text-cyan-400">${b.category}</span>
+            </div>
           </div>
         </div>
 
