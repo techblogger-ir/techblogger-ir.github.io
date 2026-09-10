@@ -268,7 +268,6 @@
         const matchSearch = !query || 
           b.name.toLowerCase().includes(query) ||
           b.real_name.toLowerCase().includes(query) ||
-          (b.telegram_user && b.telegram_user.toLowerCase().includes(query)) ||
           (b.instagram && b.instagram.toLowerCase().includes(query)) ||
           (b.bio && b.bio.toLowerCase().includes(query)) ||
           (b.tags && b.tags.some(t => t.toLowerCase().includes(query)));
@@ -356,10 +355,8 @@
 
             <!-- Footer Action & Socials -->
             <div class="pt-4 border-t border-slate-800/80 flex items-center justify-between">
-              <div class="flex items-center gap-2.5 text-slate-400 text-sm">
-                ${b.telegram_user ? `<a href="https://t.me/${b.telegram_user}" target="_blank" class="hover:text-cyan-400 transition" title="تلگرام"><i class="fa-brands fa-telegram"></i></a>` : ''}
-                ${b.instagram ? `<a href="https://instagram.com/${b.instagram}" target="_blank" class="hover:text-pink-400 transition" title="اینستاگرام"><i class="fa-brands fa-instagram"></i></a>` : ''}
-                ${b.youtube ? `<a href="https://youtube.com/${b.youtube}" target="_blank" class="hover:text-red-500 transition" title="یوتیوب"><i class="fa-brands fa-youtube"></i></a>` : ''}
+              <div class="flex items-center gap-3 text-slate-400 text-sm">
+                ${b.instagram ? `<a href="https://instagram.com/${b.instagram}" target="_blank" class="hover:text-pink-400 transition flex items-center gap-1 text-xs" title="اینستاگرام"><i class="fa-brands fa-instagram text-base"></i><span>پیج اینستاگرام</span></a>` : ''}
               </div>
               <button onclick="openAnalysisModal('${b.id}')" class="px-3.5 py-1.5 rounded-xl bg-cyan-950/70 hover:bg-cyan-900 border border-cyan-700/50 text-cyan-300 text-xs font-semibold transition flex items-center gap-1.5">
                 <i class="fa-solid fa-chart-simple"></i>
