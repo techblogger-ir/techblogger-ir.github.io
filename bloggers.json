@@ -143,6 +143,41 @@
     }
   },
   {
+    "id": "maedetech",
+    "name": "مائده کاظمی | هوش مصنوعی | برنامه نویسی | تکنولوژی",
+    "real_name": "مائده کاظمی | هوش مصنوعی | برنامه نویسی | تکنولوژی",
+    "instagram": "maedetech",
+    "telegram_user": "maedetech",
+    "youtube": "@maedetech",
+    "telegram_channel": "maedetech",
+    "followers_count": 881609,
+    "followers_formatted": "881K",
+    "category": "هوش مصنوعی و داده",
+    "niche": "Tech, AI & Programming",
+    "score": 9.9,
+    "engagement_rate": "5.8%",
+    "avg_views": "229K",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/maedetech.jpg",
+    "bio": "مدرس حوزه هوش مصنوعی 💛 مدیر آکادمی آیولرن 🔰 🔗 @aiolearn_school پروژه محور | مدرک معتبر | منتورینگ 👩🏻‍💻 مشاوره رایگان | ظرفیت محدود ‼️ ☎️ ۰۲۱۴۸۸۱۴۲۱۲",
+    "tags": [
+      "هوش",
+      "تکنولوژی",
+      "برنامه‌نویسی"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع کد و نکته",
+        "آموزش‌های پروژه‌محور",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط بر مباحث هوش مصنوعی و داده و پاسخگویی منظم به کاربران",
+      "monetization": "اسپانسرشیپ تخصصی، دوره‌های آموزشی و پروموشن"
+    }
+  },
+  {
     "id": "mrmobileorg",
     "name": "فروشگاه مستر موبایل",
     "real_name": "فروشگاه مستر موبایل",
@@ -246,6 +281,76 @@
       ],
       "strengths": "تسلط بر حوزه ترفندهای دیجیتال و وب، پایگاه مخاطبان وفادار و استمرار بالا در تولید محتوا",
       "monetization": "اسپانسرشیپ اختصاصی برندهای معتبر، پروموشن و خدمات تخصصی"
+    }
+  },
+  {
+    "id": "amiryalij",
+    "name": "هوش مصنوعی امیر یالیج | آموزش کسب درآمد با AI",
+    "real_name": "هوش مصنوعی امیر یالیج | آموزش کسب درآمد با AI",
+    "instagram": "amiryalij",
+    "telegram_user": "amiryalij",
+    "youtube": "@amiryalij",
+    "telegram_channel": "amiryalij",
+    "followers_count": 423783,
+    "followers_formatted": "423K",
+    "category": "هوش مصنوعی و داده",
+    "niche": "Tech, AI & Programming",
+    "score": 9.3,
+    "engagement_rate": "6.1%",
+    "avg_views": "110K",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/amiryalij.jpg",
+    "bio": "🧠 مدرس نسل اول هوش مصنوعی در ایران 🏆 رکورددار پربازدیدترین محتوای اِی‌آی فارسی 🧑🏻‍🏫 کلاس آنلاین آپدیت نقشه راه پولسازی با اِی‌آی 🔻 ثبت نام رایگان",
+    "tags": [
+      "هوش",
+      "تکنولوژی",
+      "برنامه‌نویسی"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع کد و نکته",
+        "آموزش‌های پروژه‌محور",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط بر مباحث هوش مصنوعی و داده و پاسخگویی منظم به کاربران",
+      "monetization": "اسپانسرشیپ تخصصی، دوره‌های آموزشی و پروموشن"
+    }
+  },
+  {
+    "id": "zizii.tech",
+    "name": "هوش‌مصنوعی | تکنولوژی | برنامه نویسی | زی‌زی تک",
+    "real_name": "هوش‌مصنوعی | تکنولوژی | برنامه نویسی | زی‌زی تک",
+    "instagram": "zizii.tech",
+    "telegram_user": "zizii.tech",
+    "youtube": "@zizii.tech",
+    "telegram_channel": "zizii.tech",
+    "followers_count": 420993,
+    "followers_formatted": "420K",
+    "category": "هوش مصنوعی و داده",
+    "niche": "Tech, AI & Programming",
+    "score": 9.3,
+    "engagement_rate": "6.1%",
+    "avg_views": "109K",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/zizii.tech.jpg",
+    "bio": "آموزش هوش مصنوعی و مارکتینگ مدیر ارشد آکادمی آیولرن مشاوره، کوچینگ، آنالیز @aiolearn @aiolearn.ir 📞شماره تماس: 02144441827",
+    "tags": [
+      "هوش",
+      "تکنولوژی",
+      "برنامه‌نویسی"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع کد و نکته",
+        "آموزش‌های پروژه‌محور",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط بر مباحث هوش مصنوعی و داده و پاسخگویی منظم به کاربران",
+      "monetization": "اسپانسرشیپ تخصصی، دوره‌های آموزشی و پروموشن"
     }
   },
   {
@@ -497,6 +602,41 @@
     }
   },
   {
+    "id": "nulldevelopr",
+    "name": "آموزش برنامه نویسی | آموزش هوش مصنوعی | حسین بدرنژاد",
+    "real_name": "آموزش برنامه نویسی | آموزش هوش مصنوعی | حسین بدرنژاد",
+    "instagram": "nulldevelopr",
+    "telegram_user": "nulldevelopr",
+    "youtube": "@nulldevelopr",
+    "telegram_channel": "nulldevelopr",
+    "followers_count": 126649,
+    "followers_formatted": "126K",
+    "category": "هوش مصنوعی و داده",
+    "niche": "Tech, AI & Programming",
+    "score": 8.5,
+    "engagement_rate": "6.3%",
+    "avg_views": "32K",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/nulldevelopr.jpg",
+    "bio": "هر سوالی داری دایرکت بپرس، خودم جواب میدم 💻آموزش هوش مصنوعی+آموزش برنامه‌نویسی  📚نویسنده کتاب‌ آموزش پایتون،جاوا،کاتلین برای دریافت مشاوره بزن رو لینک",
+    "tags": [
+      "هوش",
+      "تکنولوژی",
+      "برنامه‌نویسی"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع کد و نکته",
+        "آموزش‌های پروژه‌محور",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط بر مباحث هوش مصنوعی و داده و پاسخگویی منظم به کاربران",
+      "monetization": "اسپانسرشیپ تخصصی، دوره‌های آموزشی و پروموشن"
+    }
+  },
+  {
     "id": "peyman.jajarmi",
     "name": "پیمان جاجَرمی",
     "real_name": "پیمان جاجَرمی",
@@ -529,6 +669,41 @@
       ],
       "strengths": "تسلط بر حوزه تکنولوژی و گجت و مخاطبان میلیونی و وفادار",
       "monetization": "اسپانسرشیپ اختصاصی برندهای بین‌المللی و کمپین‌های بزرگ"
+    }
+  },
+  {
+    "id": "dr.esmaeilzadehofficial",
+    "name": "Dr Reza Esmaeilzadeh",
+    "real_name": "Dr Reza Esmaeilzadeh",
+    "instagram": "dr.esmaeilzadehofficial",
+    "telegram_user": "dr.esmaeilzadehofficial",
+    "youtube": "@dr.esmaeilzadehofficial",
+    "telegram_channel": "dr.esmaeilzadehofficial",
+    "followers_count": 104410,
+    "followers_formatted": "104K",
+    "category": "هوش مصنوعی و داده",
+    "niche": "Tech, AI & Programming",
+    "score": 8.4,
+    "engagement_rate": "6.3%",
+    "avg_views": "27K",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/dr.esmaeilzadehofficial.jpg",
+    "bio": "فوق دکتری تخصصی هوش مصنوعی و رباتیک 📖 Postdoc Of Artificial Intelligence&Robotics ♡ Machine Vision,Neural Networks,DL 📩:R.Esmaeilzadeh@iaushab.ac.ir",
+    "tags": [
+      "هوش",
+      "تکنولوژی",
+      "برنامه‌نویسی"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع کد و نکته",
+        "آموزش‌های پروژه‌محور",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط بر مباحث هوش مصنوعی و داده و پاسخگویی منظم به کاربران",
+      "monetization": "اسپانسرشیپ تخصصی، دوره‌های آموزشی و پروموشن"
     }
   },
   {
@@ -740,6 +915,41 @@
       ],
       "strengths": "تسلط بر حوزه توسعه نرم‌افزار و کدنویسی و پاسخگویی منظم به مخاطبان",
       "monetization": "اسپانسرشیپ تخصصی، معرفی محصولات تک و خدمات آموزشی"
+    }
+  },
+  {
+    "id": "ebrahimidev.ir",
+    "name": "برنامه نویسی | تکنولوژی | هوش مصنوعی | کامپیوتر",
+    "real_name": "برنامه نویسی | تکنولوژی | هوش مصنوعی | کامپیوتر",
+    "instagram": "ebrahimidev.ir",
+    "telegram_user": "ebrahimidev.ir",
+    "youtube": "@ebrahimidev.ir",
+    "telegram_channel": "ebrahimidev.ir",
+    "followers_count": 50161,
+    "followers_formatted": "50K",
+    "category": "هوش مصنوعی و داده",
+    "niche": "Tech, AI & Programming",
+    "score": 8.3,
+    "engagement_rate": "6.4%",
+    "avg_views": "13K",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/ebrahimidev.ir.jpg",
+    "bio": "هر روز آگهی استخدام دورکاری 🚀 فرصت بعدی شاید مال تو باشه 💥 🌹 جهت ثبت آگهی پیام بدین",
+    "tags": [
+      "هوش",
+      "تکنولوژی",
+      "برنامه‌نویسی"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع کد و نکته",
+        "آموزش‌های پروژه‌محور",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط بر مباحث هوش مصنوعی و داده و پاسخگویی منظم به کاربران",
+      "monetization": "اسپانسرشیپ تخصصی، دوره‌های آموزشی و پروموشن"
     }
   },
   {
@@ -1842,6 +2052,41 @@
     }
   },
   {
+    "id": "codemaster_ir",
+    "name": "codemaster_ir",
+    "real_name": "codemaster_ir",
+    "instagram": "codemaster_ir",
+    "telegram_user": "codemaster_ir",
+    "youtube": "@codemaster_ir",
+    "telegram_channel": "codemaster_ir",
+    "followers_count": 172,
+    "followers_formatted": "172",
+    "category": "توسعه نرم‌افزار و برنامه‌نویسی",
+    "niche": "Tech, AI & Programming",
+    "score": 8.3,
+    "engagement_rate": "6.4%",
+    "avg_views": "44",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/codemaster_ir.jpg",
+    "bio": "📈با کد مستر کسب و کار خود را به روز کنید ⚙طراح و توسعه دهنده انواع وبسایت  🔹️Asp.Net . 📥ارتباط از طریق دایرکت یا شماره تلفن 09178486041",
+    "tags": [
+      "توسعه",
+      "تکنولوژی",
+      "برنامه‌نویسی"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع کد و نکته",
+        "آموزش‌های پروژه‌محور",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط بر مباحث توسعه نرم‌افزار و برنامه‌نویسی و پاسخگویی منظم به کاربران",
+      "monetization": "اسپانسرشیپ تخصصی، دوره‌های آموزشی و پروموشن"
+    }
+  },
+  {
     "id": "pouria_alikhani",
     "name": "pouria",
     "real_name": "pouria",
@@ -1982,6 +2227,76 @@
       ],
       "strengths": "تسلط عمیق روی Python, Django & Backend، استمرار بالا و پاسخگویی به مخاطبان",
       "monetization": "اسپانسرشیپ تخصصی، معرفی محصولات تک و همکاری‌های ریلز و استوری"
+    }
+  },
+  {
+    "id": "techwithamir",
+    "name": "TechwithAmir",
+    "real_name": "TechwithAmir",
+    "instagram": "techwithamir",
+    "telegram_user": "techwithamir",
+    "youtube": "@techwithamir",
+    "telegram_channel": "techwithamir",
+    "followers_count": 29,
+    "followers_formatted": "29",
+    "category": "هوش مصنوعی و داده",
+    "niche": "Tech, AI & Programming",
+    "score": 8.3,
+    "engagement_rate": "6.4%",
+    "avg_views": "7",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/techwithamir.jpg",
+    "bio": "🚀 Increase your knowledge everyday  🏆 30K+ Followers in my first page  🤯 #Tech l Tips l Tricks l Hacks 📩 Mail/Dm For Collaboration",
+    "tags": [
+      "هوش",
+      "تکنولوژی",
+      "برنامه‌نویسی"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع کد و نکته",
+        "آموزش‌های پروژه‌محور",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط بر مباحث هوش مصنوعی و داده و پاسخگویی منظم به کاربران",
+      "monetization": "اسپانسرشیپ تخصصی، دوره‌های آموزشی و پروموشن"
+    }
+  },
+  {
+    "id": "flutter_fa",
+    "name": "flutter developer",
+    "real_name": "flutter developer",
+    "instagram": "flutter_fa",
+    "telegram_user": "flutter_fa",
+    "youtube": "@flutter_fa",
+    "telegram_channel": "flutter_fa",
+    "followers_count": 12,
+    "followers_formatted": "12",
+    "category": "توسعه اپلیکیشن موبایل",
+    "niche": "Tech, AI & Programming",
+    "score": 8.3,
+    "engagement_rate": "6.4%",
+    "avg_views": "3",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/flutter_fa.jpg",
+    "bio": "Android  Ios #flutter",
+    "tags": [
+      "توسعه",
+      "تکنولوژی",
+      "برنامه‌نویسی"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع کد و نکته",
+        "آموزش‌های پروژه‌محور",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط بر مباحث توسعه اپلیکیشن موبایل و پاسخگویی منظم به کاربران",
+      "monetization": "اسپانسرشیپ تخصصی، دوره‌های آموزشی و پروموشن"
     }
   },
   {
