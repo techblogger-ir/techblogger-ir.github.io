@@ -320,6 +320,42 @@
     }
   },
   {
+    "id": "zizi.salimi",
+    "name": "زی‌زی سلیمی | Zizi Salimi",
+    "real_name": "زی‌زی سلیمی",
+    "instagram": "zizi.salimi",
+    "telegram_user": "zizisalimi",
+    "youtube": "@zizisalimi",
+    "telegram_channel": "zizisalimi",
+    "followers_count": 610642,
+    "followers_formatted": "610K+",
+    "category": "تکنولوژی گیمینگ و استریم",
+    "niche": "Gaming Setup & Streaming Tech",
+    "score": 9.1,
+    "engagement_rate": "6.4%",
+    "avg_views": "170K",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/zizi.salimi.jpg",
+    "bio": "همه چیز درباره تکنولوژی و هوش مصنوعی معرفی گجت همکاری @zi.factory",
+    "tags": [
+      "گیمینگ",
+      "استریم",
+      "تکنولوژی",
+      "ایران"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار پرتعامل در کامیونیتی گیمرها و استریمرها (۹۶٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست و استوری در هفته",
+      "top_formats": [
+        "تست و بررسی تجهیزات گیمینگ",
+        "آنباکسینگ ستاپ و کنسول",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "ارتباط قوی با نسل جوان، تولید محتوای جذاب ویدئویی و بررسی تخصصی اکسسوری‌های بازی",
+      "monetization": "اسپانسرشیپ تجهیزات گیمینگ، استریم و پروموشن"
+    }
+  },
+  {
     "id": "jadijadinet",
     "name": "جادی میرمیرانی | Jadi",
     "real_name": "جادی میرمیرانی",
@@ -742,41 +778,6 @@
       ],
       "strengths": "بیان شفاف و استاندارد، آموزش ساختاریافته تحلیل داده و پرامپت‌نویسی",
       "monetization": "دوره‌های تخصصی علم داده، کارگاه‌های تحلیل داده و اسپانسرشیپ"
-    }
-  },
-  {
-    "id": "zizislimi",
-    "name": "زیزی اسلیمی | Zizi Slimi",
-    "real_name": "زیزی سلیمی",
-    "instagram": "zizislimi",
-    "telegram_user": "zizislimi",
-    "youtube": "@zizislimi",
-    "telegram_channel": "zizislimi",
-    "followers_count": 185000,
-    "followers_formatted": "185K+",
-    "category": "تکنولوژی گیمینگ و استریم",
-    "niche": "Gaming Setup & Streaming Tech",
-    "score": 9.0,
-    "engagement_rate": "6.2%",
-    "avg_views": "0",
-    "primary_platform": "Instagram",
-    "avatar": "avatars/zizislimi.jpg",
-    "bio": "استریم بازی، تست گجت‌ها و تجهیزات گیمینگ، نقد کنسول و ستاپ‌های استودیویی",
-    "tags": [
-      "تکنولوژی",
-      "تکنولوژی",
-      "ایران"
-    ],
-    "analysis": {
-      "audience_sentiment": "بسیار محبوب و پرتعامل (۹۶٪ رضایت مخاطبان)",
-      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
-      "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های تعاملی"
-      ],
-      "strengths": "تسلط بر حوزه تکنولوژی و گجت و مخاطبان میلیونی و وفادار",
-      "monetization": "اسپانسرشیپ اختصاصی برندهای بین‌المللی و کمپین‌های بزرگ"
     }
   },
   {
