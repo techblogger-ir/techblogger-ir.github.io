@@ -284,6 +284,42 @@
     }
   },
   {
+    "id": "jadi.jadi",
+    "name": "جادی میرمیرانی | Jadi",
+    "real_name": "جادی میرمیرانی",
+    "instagram": "jadi.jadi",
+    "telegram_user": "jadijadi",
+    "youtube": "@jadi.jadi",
+    "telegram_channel": "jadi.jadi",
+    "followers_count": 520000,
+    "followers_formatted": "520K+",
+    "category": "نرم‌افزار آزاد، لینوکس و پایتون",
+    "niche": "Open Source, Linux & AI",
+    "score": 9.9,
+    "engagement_rate": "7.4%",
+    "avg_views": "93",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/jadi.jadi.jpg",
+    "bio": "فرهنگ نرم‌افزار آزاد، آموزش پایتون و لینوکس، پادکست رادیوگیک و ترویج دانش باز در دنیای وب",
+    "tags": [
+      "فرهنگ",
+      "Open",
+      "تکنولوژی",
+      "ایران"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت مخاطبان)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع و کاربردی",
+        "ویدیوهای تحلیلی عمیق",
+        "استوری‌های روزمره و تعاملی"
+      ],
+      "strengths": "تسلط عمیق روی Open Source & Python Education، استمرار بالا و پاسخگویی به مخاطبان",
+      "monetization": "اسپانسرشیپ تخصصی، معرفی محصولات تک و همکاری‌های ریلز و استوری"
+    }
+  },
+  {
     "id": "sina_sotech",
     "name": "گجت | تکنولوژی | اکسسوری | کاربردی",
     "real_name": "گجت | تکنولوژی | اکسسوری | کاربردی",
@@ -633,6 +669,77 @@
       ],
       "strengths": "تسلط بر حوزه توسعه نرم‌افزار و برنامه‌نویسی، پایگاه مخاطبان وفادار و استمرار بالا در تولید محتوا",
       "monetization": "اسپانسرشیپ اختصاصی برندهای معتبر، پروموشن و خدمات تخصصی"
+    }
+  },
+  {
+    "id": "databymina",
+    "name": "Mina | Data By Mina",
+    "real_name": "مینا خسروی (Data By Mina)",
+    "instagram": "databymina",
+    "telegram_user": "Creator_DBM",
+    "youtube": "@databymina",
+    "telegram_channel": "databy_mina",
+    "followers_count": 223489,
+    "followers_formatted": "223K+",
+    "category": "علم داده و هوش تجاری",
+    "niche": "Data Science & Python",
+    "score": 9.4,
+    "engagement_rate": "6.8%",
+    "avg_views": "62K",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/databymina.jpg",
+    "bio": "آموزش علم داده، هوش تجاری، پایتون و ابزارهای داده | مسیر ورود به دنیای دیتا ساینس",
+    "tags": [
+      "علم داده",
+      "پایتون",
+      "تکنولوژی",
+      "ایران"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار محبوب در میان دانشجویان و متخصصان دیتا (۹۶٪ رضایت)",
+      "content_frequency": "۳ الی ۵ پست در هفته",
+      "top_formats": [
+        "نقشه‌های راه شغلی دیتا",
+        "معرفی پروژه‌های پایتون",
+        "استوری‌های آموزشی"
+      ],
+      "strengths": "بیان شفاف و استاندارد، آموزش ساختاریافته تحلیل داده و پرامپت‌نویسی",
+      "monetization": "دوره‌های تخصصی علم داده، کارگاه‌های تحلیل داده و اسپانسرشیپ"
+    }
+  },
+  {
+    "id": "zizislimi",
+    "name": "زیزی اسلیمی | Zizi Slimi",
+    "real_name": "زیزی سلیمی",
+    "instagram": "zizislimi",
+    "telegram_user": "zizislimi",
+    "youtube": "@zizislimi",
+    "telegram_channel": "zizislimi",
+    "followers_count": 185000,
+    "followers_formatted": "185K+",
+    "category": "تکنولوژی گیمینگ و استریم",
+    "niche": "Gaming Setup & Streaming Tech",
+    "score": 9.0,
+    "engagement_rate": "6.2%",
+    "avg_views": "0",
+    "primary_platform": "Instagram",
+    "avatar": "avatars/zizislimi.jpg",
+    "bio": "استریم بازی، تست گجت‌ها و تجهیزات گیمینگ، نقد کنسول و ستاپ‌های استودیویی",
+    "tags": [
+      "تکنولوژی",
+      "تکنولوژی",
+      "ایران"
+    ],
+    "analysis": {
+      "audience_sentiment": "بسیار محبوب و پرتعامل (۹۶٪ رضایت مخاطبان)",
+      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
+      "top_formats": [
+        "ریلزهای سریع و کاربردی",
+        "ویدیوهای تحلیلی عمیق",
+        "استوری‌های تعاملی"
+      ],
+      "strengths": "تسلط بر حوزه تکنولوژی و گجت و مخاطبان میلیونی و وفادار",
+      "monetization": "اسپانسرشیپ اختصاصی برندهای بین‌المللی و کمپین‌های بزرگ"
     }
   },
   {
@@ -2085,42 +2192,6 @@
     }
   },
   {
-    "id": "jadi.jadi",
-    "name": "Jadi Jadi",
-    "real_name": "Jadi Jadi",
-    "instagram": "jadi.jadi",
-    "telegram_user": "jadi.jadi",
-    "youtube": "@jadi.jadi",
-    "telegram_channel": "jadi.jadi",
-    "followers_count": 310,
-    "followers_formatted": "310",
-    "category": "فرهنگ نرم‌افزار آزاد و لینوکس",
-    "niche": "Open Source & Python Education",
-    "score": 9.7,
-    "engagement_rate": "7.2%",
-    "avg_views": "93",
-    "primary_platform": "Instagram",
-    "avatar": "avatars/jadi.jadi.jpg",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه فرهنگ نرم‌افزار آزاد و لینوکس",
-    "tags": [
-      "فرهنگ",
-      "Open",
-      "تکنولوژی",
-      "ایران"
-    ],
-    "analysis": {
-      "audience_sentiment": "بسیار مثبت و پویا (۹۴٪ رضایت مخاطبان)",
-      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
-      "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های روزمره و تعاملی"
-      ],
-      "strengths": "تسلط عمیق روی Open Source & Python Education، استمرار بالا و پاسخگویی به مخاطبان",
-      "monetization": "اسپانسرشیپ تخصصی، معرفی محصولات تک و همکاری‌های ریلز و استوری"
-    }
-  },
-  {
     "id": "alirezaafshar",
     "name": "Alireza",
     "real_name": "Alireza",
@@ -2751,41 +2822,6 @@
         "استوری‌های تعاملی"
       ],
       "strengths": "تسلط بر حوزه تکنولوژی گیمینگ، ستاپ و استریم و مخاطبان میلیونی و وفادار",
-      "monetization": "اسپانسرشیپ اختصاصی برندهای بین‌المللی و کمپین‌های بزرگ"
-    }
-  },
-  {
-    "id": "zizislimi",
-    "name": "Zizislimi",
-    "real_name": "Zizislimi",
-    "instagram": "zizislimi",
-    "telegram_user": "zizislimi",
-    "youtube": "@zizislimi",
-    "telegram_channel": "zizislimi",
-    "followers_count": 0,
-    "followers_formatted": "0",
-    "category": "تکنولوژی و گجت",
-    "niche": "Tech & Creator Ecosystem",
-    "score": 8.4,
-    "engagement_rate": "6.5%",
-    "avg_views": "0",
-    "primary_platform": "Instagram",
-    "avatar": "avatars/zizislimi.jpg",
-    "bio": "تولیدکننده تخصصی محتوا در حوزه تکنولوژی و گجت",
-    "tags": [
-      "تکنولوژی",
-      "تکنولوژی",
-      "ایران"
-    ],
-    "analysis": {
-      "audience_sentiment": "بسیار محبوب و پرتعامل (۹۶٪ رضایت مخاطبان)",
-      "content_frequency": "۳ الی ۵ پست و ریلز در هفته",
-      "top_formats": [
-        "ریلزهای سریع و کاربردی",
-        "ویدیوهای تحلیلی عمیق",
-        "استوری‌های تعاملی"
-      ],
-      "strengths": "تسلط بر حوزه تکنولوژی و گجت و مخاطبان میلیونی و وفادار",
       "monetization": "اسپانسرشیپ اختصاصی برندهای بین‌المللی و کمپین‌های بزرگ"
     }
   }
